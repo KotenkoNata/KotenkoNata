@@ -1,22 +1,20 @@
 ### Hi there 👋
 
- I am learning front end development.
+- 🔭 I’m currently studying.
 
-- 📫 How to reach me: 
 
-[codewars ![small](https://user-images.githubusercontent.com/35960689/169033641-46317a16-acfe-49c7-a205-098857a5e0f0.svg)
-profile badge](https://www.codewars.com/users/KotenkoNata/badges/small)
-<!--
-**KotenkoNata/KotenkoNata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<a href="https://www.codewars.com/users/KotenkoNata">
+  <img src="https://www.codewars.com/users/KotenkoNata/badges/large" alt="codewars profile badge">
+</a>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## My projects:
+
+[**MY CV**](https://kotenkonata.github.io/rsschool-cv/) - (html, css, js)
+
+[**Virtual keyboard**](https://kotenkonata.github.io/virtual-keyboard/) - (html, css, js)
+
+
+
+
