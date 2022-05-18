@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently studying.
-
+🔭 I’m currently studying.
 
 <a href="https://www.codewars.com/users/KotenkoNata">
   <img src="https://www.codewars.com/users/KotenkoNata/badges/large" alt="codewars profile badge">
