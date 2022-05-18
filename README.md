@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+ I am learning front end development.
+
+- 📫 How to reach me: 
 <!--
 **KotenkoNata/KotenkoNata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
