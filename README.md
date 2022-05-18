@@ -4,7 +4,8 @@
 
 - 📫 How to reach me: 
 
-[odewars profile badge](https://www.codewars.com/users/KotenkoNata/badges/small)
+[codewars ![small](https://user-images.githubusercontent.com/35960689/169033641-46317a16-acfe-49c7-a205-098857a5e0f0.svg)
+profile badge](https://www.codewars.com/users/KotenkoNata/badges/small)
 <!--
 **KotenkoNata/KotenkoNata** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
