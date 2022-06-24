@@ -16,6 +16,10 @@
 
 [**Web Studio**](https://kotenkonata.github.io/goit-homework/) - (html, css, js)
 
+[**Image finder**] (https://kotenkonata.github.io/goit-js-hw-13-image-finder/) - (html, css, js)
+
+[**Image finder**] (https://kotenkonata.github.io/goit-react-hw-03-image-finder/) - (html, css, js, react)
+
 
 
 
