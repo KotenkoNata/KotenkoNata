@@ -14,6 +14,10 @@
 
 [**Virtual keyboard**](https://kotenkonata.github.io/virtual-keyboard/) - (html, css, js)
 
+[**Web Studio**](https://kotenkonata.github.io/goit-homework/) - (html, css, js)
+
+
+
 
 
 
