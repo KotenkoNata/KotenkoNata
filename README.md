@@ -14,11 +14,13 @@
 
 [**Virtual keyboard**](https://kotenkonata.github.io/virtual-keyboard/) - (html, css, js)
 
-[**Web Studio**](https://kotenkonata.github.io/goit-homework/) - (html, css, js)
-
 [**Image finder**](https://kotenkonata.github.io/goit-js-hw-13-image-finder/) - (html, css, js)
 
 [**Image finder**](https://kotenkonata.github.io/goit-react-hw-03-image-finder/) - (html, css, js, react)
+
+[**Team project - HELLEN**](https://projectteam18.github.io/parcel-project-template/) - (html, css, js)
+
+[**Web Studio**](https://kotenkonata.github.io/goit-homework/) - (html, css, js)
 
 
 
