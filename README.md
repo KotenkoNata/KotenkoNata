@@ -16,6 +16,8 @@
 
 [**Tetris**](https://famous-rolypoly-2938db.netlify.app/) - (html, css, js)
 
+[**Shelter**](https://serene-queijadas-01b521.netlify.app/) - (html, css, js)
+
 [**Alexa Rise - portfolio**](https://imaginative-pegasus-0b0a8b.netlify.app/) - (html, css, js)
 
 [**Image finder**](https://kotenkonata.github.io/goit-react-hw-03-image-finder/) - (html, css, js, react)
