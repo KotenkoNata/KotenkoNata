@@ -14,7 +14,7 @@
 
 [**Virtual keyboard**](https://kotenkonata.github.io/virtual-keyboard/) - (html, css, js)
 
-[**Alexa Rise - portfolio**](https://kotenkonata.github.io/goit-homework/](https://imaginative-pegasus-0b0a8b.netlify.app/) - (html, css, js)
+[**Alexa Rise - portfolio**](https://imaginative-pegasus-0b0a8b.netlify.app/) - (html, css, js)
 
 [**Image finder**](https://kotenkonata.github.io/goit-react-hw-03-image-finder/) - (html, css, js, react)
 
