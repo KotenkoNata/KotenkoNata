@@ -12,6 +12,8 @@
 
 [**MY CV**](https://kotenkonata.github.io/rsschool-cv/) - (html, css, js)
 
+[**Task List**](https://kotenkonata.github.io/typescript-tutorial/) - (React, TypeScript)
+
 [**Virtual keyboard**](https://kotenkonata.github.io/virtual-keyboard/) - (html, css, js)
 
 [**Tetris**](https://famous-rolypoly-2938db.netlify.app/) - (html, css, js)
