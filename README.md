@@ -12,6 +12,8 @@
 
 [**MY CV**](https://kotenkonata.github.io/rsschool-cv/) - (html, css, js)
 
+[**Job List**](https://kotenkonata.github.io/job-board/)) - (React, TypeScript, Google Map)
+
 [**Task List**](https://kotenkonata.github.io/typescript-tutorial/) - (React, TypeScript)
 
 [**Virtual keyboard**](https://kotenkonata.github.io/virtual-keyboard/) - (html, css, js)
