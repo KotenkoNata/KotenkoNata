@@ -12,6 +12,8 @@
 
 [**MY CV**](https://kotenkonata.github.io/rsschool-cv/) - (html, css, js)
 
+[**Project GitHub user finder**](https://kotenkonata.github.io/typescript-practice/) - (React, TypeScript)
+
 [**Parallax**](https://kotenkonata.github.io/animation/) - (html, css, js)
 
 [**FarmVest**](https://kotenkonata.github.io/FarmVest/) - (HTML, SCSS, js)
