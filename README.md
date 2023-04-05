@@ -12,6 +12,8 @@
 
 [**MY CV**](https://kotenkonata.github.io/rsschool-cv/) - (html, css, js)
 
+[**Today I Learn React App**](https://kotenkonata.github.io/react-app-today-learn/) - (React, css, Supabase)
+
 [**Project GitHub user finder**](https://kotenkonata.github.io/typescript-practice/) - (React, TypeScript)
 
 [**Parallax**](https://kotenkonata.github.io/animation/) - (html, css, js)
