@@ -6,6 +6,8 @@
   <img src="https://www.codewars.com/users/KotenkoNata/badges/large" alt="codewars profile badge">
 </a>
 
+![LeetCode Stats](https://leetcode.card.workers.dev/KotenkoNata?theme=dark&font=baloo&extension=activity)
+
 
 
 ## My projects:
