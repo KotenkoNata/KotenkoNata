@@ -6,7 +6,7 @@
   <img src="https://www.codewars.com/users/KotenkoNata/badges/large" alt="codewars profile badge">
 </a>
 
-![LeetCode Stats](https://leetcode.card.workers.dev/KotenkoNata?theme=dark&font=baloo&extension=activity)
+![LeetCode Stats](https://leetcode.card.workers.dev/KotenkoNata?theme=nord&font=baloo&extension=null)
 
 
 
